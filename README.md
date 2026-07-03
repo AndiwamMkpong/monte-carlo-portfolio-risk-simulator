@@ -33,5 +33,19 @@ The default portfolio includes:
 ## Results
 The notebook estimates expected portfolio value, downside scenarios, probability of loss, and risk-adjusted return over a multi-year forecast period.
 
-## Resume Bullet
-Built a Python-based Monte Carlo simulation model to forecast portfolio performance across 10,000 scenarios, estimating expected return, volatility, Value at Risk, expected shortfall, and probability of loss using real market data.
+## Project Output Examples
+
+### Monte Carlo Simulation Paths
+![Monte Carlo Simulation Paths](images/simulation_paths.png)
+
+### Ending Portfolio Value Distribution
+![Ending Portfolio Value Distribution](images/ending_value_distribution.png)
+
+### Correlation Matrix
+![Correlation Matrix](images/correlation_matrix.png)
+
+### Scenario Table
+![Scenario Table](images/scenario_table.png)
+
+### Risk Metrics
+![Risk Metrics](images/risk_metrics.png)
