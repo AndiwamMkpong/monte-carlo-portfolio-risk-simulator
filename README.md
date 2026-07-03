@@ -1,5 +1,3 @@
-# monte-carlo-portfolio-risk-simulator
-
 # Monte Carlo Portfolio Risk Simulator
 
 This project uses Python to simulate future portfolio outcomes using historical stock market data. The model pulls real asset prices from Yahoo Finance, calculates portfolio return and volatility, and runs 10,000 Monte Carlo simulations to estimate downside risk, expected return, Value at Risk, and expected shortfall.
